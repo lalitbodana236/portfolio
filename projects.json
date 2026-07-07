@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Payment Orchestrator",
+    "description": "A demo payment orchestration platform focused on resilient workflows, service coordination, and reliable transaction handling.",
+    "url": "https://lalitbodana236.github.io/payment-orchestrator",
+    "linkLabel": "Open live project ↗",
+    "sourceText": "Source code: github.com/lalitbodana236/payment-orchestrator",
+    "tags": ["Java", "Spring Boot", "Kafka"]
+  },
+  {
+    "title": "Integration System",
+    "description": "A distributed event-driven integration platform with ingestion, processing, regional workflow, and notification services built on Java, Spring Boot, Kafka, MySQL, Redis, and Docker.",
+    "url": "https://github.com/lalitbodana236/integration-system",
+    "linkLabel": "Open source repo ↗",
+    "sourceText": "Source code: github.com/lalitbodana236/integration-system",
+    "tags": ["Java", "Spring Boot", "Kafka", "Redis"]
+  },
+  {
+    "title": "URL Shortener",
+    "description": "A simple URL shortener app with analytics and custom links.",
+    "url": "https://example.com",
+    "linkLabel": "Open live project ↗",
+    "sourceText": "Source code: github.com/yourname/url-shortener",
+    "tags": ["JavaScript", "Node.js", "MongoDB"]
+  }
+]
